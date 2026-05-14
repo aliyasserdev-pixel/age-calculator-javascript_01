@@ -4,6 +4,9 @@ A modern and responsive Age Calculator built using HTML, SCSS, and JavaScript.
 The app allows users to calculate their exact age in years, months, and days instantly.
 
 ## 🚀 Live Demo
+<a href="https://aliyasserdev-pixel.github.io/age-calculator-javascript_01/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-success?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
 ## 🔗 Connect With Me
 
 ### 💼 LinkedIn
