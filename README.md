@@ -7,9 +7,17 @@ The app allows users to calculate their exact age in years, months, and days ins
 ## 🔗 Connect With Me
 
 ### 💼 LinkedIn
-[Ali Yasser](https://www.linkedin.com/in/ali-yasser-b0b38138a)
+<p align="left">
 
-🌐 [View Live Website](https://aliyasserdev-pixel.github.io/age-calculator-javascript_01/)
+<a href="https://www.linkedin.com/in/ali-yasser-b0b38138a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://aliyasserdev-pixel.github.io/age-calculator-javascript_01/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Demo-purple?style=for-the-badge&logo=github" />
+</a>
+
+</p>
 
 ---
 
