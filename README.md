@@ -11,8 +11,7 @@ The app allows users to calculate their exact age in years, months, and days ins
 
 ## 📸 Preview
 
-<img width="100%" src="./scripts/Screenshot2026-AgeCalculator" />
-
+![Age Calculator](./img/age-calculator.png)
 ---
 
 ## 🛠️ Technologies Used
